@@ -1,7 +1,5 @@
 package com.Address;
-
 import java.util.*;
-
 public class AddressBook {
 	Scanner sc = new Scanner(System.in);
 	ArrayList<AddNewContact> contactArrayList = new ArrayList<AddNewContact>();
